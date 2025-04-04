@@ -24,3 +24,7 @@
 
 ## 🔗 Links
 [Portfolio](https://yourportfolio.com) | [Blog](https://yourblog.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
+
+
+---
+![trophy](https://github-profile-trophy.vercel.app/?username=your-username)
