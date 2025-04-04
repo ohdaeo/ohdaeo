@@ -1,3 +1,7 @@
+<div style="width: 100%; text-align:center;">
+  <img  src="https://em-content.zobj.net/source/microsoft-teams/363/blue-heart_1f499.png"/>
+</div>
+
 ## 👋 Hi, I'm ohdaeo
 
 🌱 I’m a frontend explorer with a keen eye for UI/UX  
