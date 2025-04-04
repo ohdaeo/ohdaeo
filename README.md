@@ -1,4 +1,4 @@
-<div style="width: 100%; text-align:center;">
+<div align="center">
   <img  src="https://em-content.zobj.net/source/microsoft-teams/363/blue-heart_1f499.png"/>
 </div>
 
