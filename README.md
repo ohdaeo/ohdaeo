@@ -37,7 +37,7 @@
 <br/>
 <h3 align="center"> 🔗 Links</h3>
 <p align="center">
-  <a href="#">
+  <a href="https://brainy-vulcanodon-0b2.notion.site/PORTFOLIO-1b5ce9c0e799801a906af8edc09dbee3?pvs=4">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio Badge" />
   </a>
 </p>
